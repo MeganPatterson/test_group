@@ -1,7 +1,7 @@
 
 public class Card{
 	
-String suit; 
+String testdeck; 
 String rank; 
 
 	
