@@ -1,7 +1,7 @@
 
 public class Card{
 	
-String testdeck2; 
+String testdeck3; 
 String rank; 
 
 	
